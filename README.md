@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Alifandra 👋</h1>
 
 <p align="center">
-  Web & Game Developer from Indonesia 🇮🇩
+  <img src="https://img.shields.io/badge/Web%20Developer-7C3AED?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Developer-7C3AED?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/alifandra-mf">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alifandramf16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -25,18 +26,18 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-7C3AED?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-7C3AED?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-7C3AED?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifandra-mf&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifandra-mf&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alifandra-mf&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA&text_color=C9C9C9&bg_color=0D0D14" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifandra-mf&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=C9C9C9&bg_color=0D0D14" height="160" />
 </p>
 
 ---
