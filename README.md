@@ -65,7 +65,7 @@ from ${aboutMe.location}.`
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nextjs,laravel,nodejs,unity,cs,blender,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,php,nextjs,laravel,nodejs,unity,cs,blender,mysql,git,github,vscode,figma"/>
 
 </p>
 
