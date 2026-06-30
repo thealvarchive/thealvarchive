@@ -1,131 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%26%20Game%20Developer&descAlignY=58&descSize=16"/>
-
-# 👋 Hi, I'm Alifandra
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E1B4B,100:7C3AED&amp;height=180&amp;section=header&amp;text=Alifandra%20Moamar%20Farizy&amp;fontSize=32&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Web%20Developer%20%26%20Game%20Developer&amp;descAlignY=58&amp;descSize=16" />
 
 </div>
 
-```javascript
-const aboutMe = {
-  name: "Alifandra Moamar Farizy",
-  pronouns: "he/him",
-  location: "Indonesia 🇮🇩",
-  roles: ["Web Developer", "Game Developer"],
-  currentlyLearning: [
-    "Next.js",
-    "Laravel",
-    "Unity",
-    "C#"
-  ]
-};
+<br>
 
-console.log(
-  `Hi! I'm ${aboutMe.name}, a ${aboutMe.roles.join(
-    " & "
-  )} from ${aboutMe.location}.`
-);
+### 👋 Hi, I'm Alifandra
+
+```js
+const about_me = () => {
+  const profile = {
+    name: "Alifandra Moamar Farizy",
+    pronouns: "he" | "him",
+    nation: "Indonesia",
+    role: ["Web Developer", "Game Developer"],
+    site: "https://your-portfolio-link.com"
+  }
+
+  return (
+    <p>{`Hello, I'm ${profile.name}. I build for the ${profile.role.join(" & ")} from ${profile.nation}.`}</p>
+  )
+}
+
+export default about_me;
 ```
 
-> I enjoy building modern websites and interactive games.  
-> Feel free to reach out if you have an interesting project or just want to connect.
+Contact me if you have any interesting projects or questions!
 
----
+<br>
 
-# 📬 Contact
+### 📬 How To Reach Me
 
-<p align="center">
-
-<a href="mailto:alifandramf16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thealvarchive">
-<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/alifandra-mf">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+<p>
+  <a href="mailto:alifandramf16@gmail.com">
+    <img src="https://img.shields.io/badge/-GMAIL-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+  </a>
+  <a href="https://github.com/alifandra-mf">
+    <img src="https://img.shields.io/badge/-GITHUB-1E1B4B?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/alifandra-mf">
+    <img src="https://img.shields.io/badge/-LINKEDIN-7C3AED?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+  </a>
 </p>
 
----
+<br>
 
-# 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nextjs,laravel,unity,cs,mysql,git,github,vscode,figma"/>
-
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-1E1B4B?style=for-the-badge&amp;logo=html5&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1E1B4B?style=for-the-badge&amp;logo=css3&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-7C3AED?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-GIT-1E1B4B?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-UNITY-7C3AED?style=for-the-badge&amp;logo=unity&amp;logoColor=white" />
 </p>
 
----
+<br>
 
-# 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alifandra-mf&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;hide_title=true&amp;icon_color=A78BFA&amp;text_color=C9C9C9&amp;bg_color=00000000" height="150" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=tokyonight&hide_border=true"/>
+### 🚀 Featured Projects
 
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
+**[ciba-dower](https://github.com/alifandra-mf/ciba-dower)**
+Short description of what this project does
 
-# 🔥 GitHub Streak
+</td>
+<td width="50%">
 
-<p align="center">
+**[alippmf-personal-website](https://github.com/alifandra-mf/alippmf-personal-website)**
+Personal website
 
-<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</p>
+**[fourbrader](https://github.com/alifandra-mf/fourbrader)**
+Short description of what this project does
 
----
+</td>
+<td width="50%">
 
-# 📈 Contribution Graph
+**[firstprikitiw](https://github.com/alifandra-mf/firstprikitiw)**
+Short description of what this project does
 
-<p align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| **[Kinokusen Furniture](https://github.com/thealvarchive)** | Modern furniture e-commerce website built with Next.js and MySQL. |
-| **[Unity Horror Game](https://github.com/thealvarchive)** | First-person horror game featuring puzzles, jump scares, and immersive gameplay. |
-| **[Personal Website](https://github.com/thealvarchive/alippmf-personal-website)** | My personal portfolio website. |
-| **[Ciba Dower](https://github.com/thealvarchive/ciba-dower)** | Experimental web project using HTML and JavaScript. |
-
----
-
-# 🏆 Goals
-
-- 🌐 Become a Full Stack Web Developer
-- 🎮 Publish a Unity Horror Game
-- 🚀 Master Next.js & Laravel
-- ☁ Learn Docker & Cloud Deployment
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=thealvarchive&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7C3AED,100:1E1B4B&amp;height=100&amp;section=footer" />
 
 </div>
