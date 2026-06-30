@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=220&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Game%20Developer&descAlignY=60"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning"/>
+
 </div>
 
 ```javascript
