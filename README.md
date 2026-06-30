@@ -2,18 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning"/>
 
 </div>
 
 ---
 
-# 💜 About Me
+## 💜 About Me
 
 ```javascript
-const aboutMe = {
+const alifandra = {
   name: "Alifandra Moamar Farizy",
-
   location: "Indonesia 🇮🇩",
 
   role: [
@@ -21,22 +20,22 @@ const aboutMe = {
     "Game Developer"
   ],
 
-  currentlyLearning: [
+  tech: [
     "Next.js",
     "Laravel",
     "Unity",
-    "Docker"
+    "MySQL"
   ]
 };
 
-console.log("Welcome to my GitHub!");
+console.log("Welcome to my GitHub Profile!");
 ```
 
-> Passionate about building modern websites, immersive games, and meaningful digital experiences.
+> Passionate about creating modern websites and immersive games.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -56,7 +55,7 @@ console.log("Welcome to my GitHub!");
 
 ---
 
-# ⚒️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -66,74 +65,17 @@ console.log("Welcome to my GitHub!");
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 GitHub Trophy
 
-<table>
+<p align="center">
 
-<tr>
+<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&column=4"/>
 
-<td width="50%" valign="top">
-
-<h3>🛋 Kinokusen Furniture</h3>
-
-Modern furniture e-commerce inspired by IKEA & Informa.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Next.js-5D51E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prisma-5D51E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-5D51E8?style=flat-square"/>
-
-<br><br>
-
-<a href="https://github.com/thealvarchive">
-View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>👻 Unity Horror Game</h3>
-
-First-person horror game with puzzles, inventory system, and immersive gameplay.
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Unity-5D51E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/C%23-5D51E8?style=flat-square"/>
-
-<br><br>
-
-🚧 Coming Soon...
-
-</td>
-
-</tr>
-
-</table>
+</p>
 
 ---
 
-# 🎯 Current Focus
-
-```text
-🛋 Kinokusen Furniture
-████████████░░░░░░ 70%
-
-👻 Unity Horror Game
-████████░░░░░░░░░░ 45%
-
-🌐 Next.js
-██████████████░░░░ 85%
-
-☁ Docker
-██████░░░░░░░░░░░░ 35%
-```
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -143,23 +85,34 @@ First-person horror game with puzzles, inventory system, and immersive gameplay.
 
 ---
 
-# 👀 Visitors
+## 🚀 Featured Projects
+
+| 🚀 Project | Description |
+|------------|-------------|
+| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce built using Next.js, Prisma & MySQL. |
+| 👻 **Unity Horror Game** | First-person horror game with puzzles and immersive gameplay. |
+| 🌐 **Personal Website** | Portfolio website showcasing projects and experience. |
+| 💻 **Experimental Projects** | Various web development experiments and prototypes. |
+
+---
+
+## 🎯 2026 Goals
+
+- 🌐 Become Full Stack Developer
+- 🎮 Release Unity Horror Game
+- 🚀 Master Next.js & Laravel
+- ☁ Learn Docker & Cloud
+- 📱 Build Mobile Applications
+
+---
+
+## 👀 Visitors
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=thealvarchive&style=for-the-badge&color=5D51E8"/>
 
 </p>
-
----
-
-# 💭 Favorite Quote
-
-<div align="center">
-
-> **"Building digital experiences, one project at a time."**
-
-</div>
 
 ---
 
