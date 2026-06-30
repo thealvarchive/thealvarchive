@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning+New+Things"/>
 
