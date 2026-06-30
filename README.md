@@ -103,15 +103,6 @@ from ${aboutMe.location}.`
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
 
 ## 🚀 Featured Projects
 
