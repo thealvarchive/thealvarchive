@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning"/>
 
 </div>
 
@@ -11,37 +11,31 @@
 ## 💜 About Me
 
 ```javascript
-const aboutMe = {
+const alifandra = {
   name: "Alifandra Moamar Farizy",
-  pronouns: "he/him",
   location: "Indonesia 🇮🇩",
 
-  roles: [
+  role: [
     "Web Developer",
     "Game Developer"
   ],
 
-  currentlyLearning: [
+  tech: [
     "Next.js",
     "Laravel",
     "Unity",
-    "Blender"
+    "MySQL"
   ]
 };
 
-console.log(
-  `Hi! I'm ${aboutMe.name},
-I'm a ${aboutMe.roles.join(" & ")}
-from ${aboutMe.location}.`
-);
+console.log("Welcome to my GitHub Profile!");
 ```
 
-> Passionate about building modern websites and immersive games.  
-> I love turning ideas into interactive digital experiences.
+> Passionate about creating modern websites and immersive games.
 
 ---
 
-## 📬 Contact
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -61,33 +55,21 @@ from ${aboutMe.location}.`
 
 ---
 
-## ⚒️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,php,nextjs,laravel,nodejs,unity,cs,blender,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nextjs,laravel,nodejs,unity,cs,mysql,git,github,vscode,figma"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophy
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=midnight-purple&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
@@ -103,38 +85,28 @@ from ${aboutMe.location}.`
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce website built with **Next.js**, **Prisma**, and **MySQL**. |
-| 👻 **Unity Horror Game** | First-person horror game featuring puzzles, jump scares, inventory system, and immersive gameplay. |
-| 🌐 **Personal Website** | My personal portfolio showcasing my projects and experience. |
-| 💻 **Web Experiments** | Small web development projects for learning modern technologies. |
+| 🚀 Project | Description |
+|------------|-------------|
+| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce built using Next.js, Prisma & MySQL. |
+| 👻 **Unity Horror Game** | First-person horror game with puzzles and immersive gameplay. |
+| 🌐 **Personal Website** | Portfolio website showcasing projects and experience. |
+| 💻 **Experimental Projects** | Various web development experiments and prototypes. |
 
 ---
 
-## 🎯 Current Goals
+## 🎯 2026 Goals
 
-- 🌐 Become a Full Stack Web Developer
-- 🎮 Publish my first Unity Horror Game
+- 🌐 Become Full Stack Developer
+- 🎮 Release Unity Horror Game
 - 🚀 Master Next.js & Laravel
-- ☁ Learn Docker & Cloud Deployment
-- 📱 Explore Mobile App Development
+- ☁ Learn Docker & Cloud
+- 📱 Build Mobile Applications
 
 ---
 
-## 👀 Profile Views
+## 👀 Visitors
 
 <p align="center">
 
@@ -146,6 +118,6 @@ from ${aboutMe.location}.`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D51E8,100:312E81&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D51E8,100:312E81&height=120&section=footer"/>
 
 </div>
