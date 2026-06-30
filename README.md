@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%26%20Game%20Developer&descAlignY=58&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Alifandra%20Moamar%20Farizy&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Web%20Developer%20%7C%20Game%20Developer&descAlignY=60"/>
 
 # 👋 Hi, I'm Alifandra
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning"/>
+
 </div>
 
+---
+
+## 💜 About Me
+
 ```javascript
-const aboutMe = {
+const alifandra = {
   name: "Alifandra Moamar Farizy",
-  pronouns: "he/him",
   location: "Indonesia 🇮🇩",
-  roles: ["Web Developer", "Game Developer"],
+  role: ["Web Developer", "Game Developer"],
   currentlyLearning: [
     "Next.js",
     "Laravel",
@@ -20,19 +25,14 @@ const aboutMe = {
   ]
 };
 
-console.log(
-  `Hi! I'm ${aboutMe.name}, a ${aboutMe.roles.join(
-    " & "
-  )} from ${aboutMe.location}.`
-);
+console.log("Let's build something amazing!");
 ```
 
-> I enjoy building modern websites and interactive games.  
-> Feel free to reach out if you have an interesting project or just want to connect.
+> Passionate about building modern websites and immersive games.
 
 ---
 
-# 📬 Contact
+## 📬 Connect With Me
 
 <p align="center">
 
@@ -41,18 +41,18 @@ console.log(
 </a>
 
 <a href="https://github.com/thealvarchive">
-<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/alifandra-mf">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## ⚒ Tech Stack
 
 <p align="center">
 
@@ -62,19 +62,19 @@ console.log(
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
 
@@ -84,7 +84,7 @@ console.log(
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -94,27 +94,27 @@ console.log(
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| **[Kinokusen Furniture](https://github.com/thealvarchive)** | Modern furniture e-commerce website built with Next.js and MySQL. |
-| **[Unity Horror Game](https://github.com/thealvarchive)** | First-person horror game featuring puzzles, jump scares, and immersive gameplay. |
-| **[Personal Website](https://github.com/thealvarchive/alippmf-personal-website)** | My personal portfolio website. |
-| **[Ciba Dower](https://github.com/thealvarchive/ciba-dower)** | Experimental web project using HTML and JavaScript. |
+| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce website using Next.js, Prisma & MySQL. |
+| 👻 **Unity Horror Game** | Horror game with puzzles, inventory system and jump scares. |
+| 🌐 **Personal Website** | Personal portfolio website. |
+| 💻 **Ciba Dower** | HTML & JavaScript experimental project. |
 
 ---
 
-# 🏆 Goals
+## 🎯 2026 Goals
 
-- 🌐 Become a Full Stack Web Developer
-- 🎮 Publish a Unity Horror Game
+- 🌐 Become Full Stack Developer
+- 🎮 Publish Unity Horror Game
+- ☁ Learn Docker
 - 🚀 Master Next.js & Laravel
-- ☁ Learn Docker & Cloud Deployment
 
 ---
 
-# 👀 Visitors
+## 👀 Profile Views
 
 <p align="center">
 
@@ -126,6 +126,6 @@ console.log(
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=24,20,12"/>
 
 </div>
