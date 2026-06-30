@@ -43,6 +43,24 @@ const alifandra = {
 
 <div align="center">
 
+### ✨ Style
+
+<i>Clean lines, sharp fits, simple palette — same philosophy I bring to code.</i>
+
+</div>
+
+<div align="center">
+
+| 🎩 Formal & Tidy | 🎨 Purple Accent | 🧩 Minimal Mindset |
+|:---:|:---:|:---:|
+| Sharp & put-together | Signature color | Less clutter, more clarity |
+
+</div>
+
+<br>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alifandra-mf)
 [![Gmail](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:alifandramf16@gmail.com)
 
