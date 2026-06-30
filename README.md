@@ -43,6 +43,45 @@ const alifandra = {
 
 <div align="center">
 
+### 🚀 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+**[ciba-dower](https://github.com/alifandra-mf/ciba-dower)**
+Short description of what this project does
+
+</td>
+<td width="50%">
+
+**[alippmf-personal-website](https://github.com/alifandra-mf/alippmf-personal-website)**
+Personal website
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[fourbrader](https://github.com/alifandra-mf/fourbrader)**
+Short description of what this project does
+
+</td>
+<td width="50%">
+
+**[firstprikitiw](https://github.com/alifandra-mf/firstprikitiw)**
+Short description of what this project does
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alifandra-mf)
 [![Gmail](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:alifandramf16@gmail.com)
 
