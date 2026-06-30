@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning+New+Things"/>
 
 </div>
 
@@ -15,25 +15,29 @@ const aboutMe = {
   name: "Alifandra Moamar Farizy",
   pronouns: "he/him",
   location: "Indonesia 🇮🇩",
-  roles: ["Web Developer", "Game Developer"],
+
+  roles: [
+    "Web Developer",
+    "Game Developer"
+  ],
 
   currentlyLearning: [
     "Next.js",
     "Laravel",
     "Unity",
-    "C#"
+    "Docker"
   ]
 };
 
 console.log(
-  `Hi! I'm ${aboutMe.name}, a ${aboutMe.roles.join(
-    " & "
-  )} from ${aboutMe.location}.`
+  `Hi! I'm ${aboutMe.name},
+I'm a ${aboutMe.roles.join(" & ")}
+from ${aboutMe.location}.`
 );
 ```
 
 > Passionate about building modern websites and immersive games.  
-> Always learning, always creating.
+> I love turning ideas into interactive digital experiences.
 
 ---
 
@@ -42,15 +46,15 @@ console.log(
 <p align="center">
 
 <a href="mailto:alifandramf16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-5D51E8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/thealvarchive">
-<img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/alifandra-mf">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-5D51E8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -61,7 +65,7 @@ console.log(
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nextjs,laravel,unity,cs,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,nextjs,laravel,nodejs,unity,cs,mysql,git,github,vscode,figma"/>
 
 </p>
 
@@ -71,9 +75,9 @@ console.log(
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
@@ -83,7 +87,7 @@ console.log(
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
@@ -103,7 +107,7 @@ console.log(
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
@@ -112,20 +116,21 @@ console.log(
 ## 🚀 Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce website built with Next.js, Prisma, and MySQL. |
-| 👻 **Unity Horror Game** | First-person horror game featuring puzzles, jump scares, and immersive gameplay. |
-| 🌐 **Personal Website** | My personal portfolio website. |
-| 💻 **Ciba Dower** | Experimental web project using HTML, CSS, and JavaScript. |
+|---------|-------------|
+| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce website built with **Next.js**, **Prisma**, and **MySQL**. |
+| 👻 **Unity Horror Game** | First-person horror game featuring puzzles, jump scares, inventory system, and immersive gameplay. |
+| 🌐 **Personal Website** | My personal portfolio showcasing my projects and experience. |
+| 💻 **Web Experiments** | Small web development projects for learning modern technologies. |
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
 - 🌐 Become a Full Stack Web Developer
-- 🎮 Publish my Unity Horror Game
+- 🎮 Publish my first Unity Horror Game
 - 🚀 Master Next.js & Laravel
-- ☁️ Learn Docker & Cloud Deployment
+- ☁ Learn Docker & Cloud Deployment
+- 📱 Explore Mobile App Development
 
 ---
 
@@ -133,7 +138,7 @@ console.log(
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=thealvarchive&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=thealvarchive&style=for-the-badge&color=5D51E8"/>
 
 </p>
 
@@ -141,6 +146,6 @@ console.log(
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D51E8,100:312E81&height=110&section=footer"/>
 
 </div>
