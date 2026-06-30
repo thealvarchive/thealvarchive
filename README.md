@@ -1,51 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=480&lines=Web+Developer;Game+Developer;Building+things+from+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,100:7C3AED&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%26%20Game%20Developer&descAlignY=58&descSize=16" />
 
 </div>
 
 <br>
+
+### 👋 Hi, I'm Alifandra
 
 ```js
-const alifandra = {
-  role: ["Web Developer", "Game Developer"],
-  location: "Indonesia",
-  currentlyLearning: "always something new",
-  funFact: "turns ideas into code, one bug at a time 🐛",
-  contact: "alifandramf16@gmail.com"
-};
+const about_me = () => {
+  const profile = {
+    name: "Alifandra Moamar Farizy",
+    pronouns: "he" | "him",
+    nation: "Indonesia",
+    role: ["Web Developer", "Game Developer"],
+    site: "https://your-portfolio-link.com"
+  }
+
+  return (
+    <p>{`Hello, I'm ${profile.name}. I build for the ${profile.role.join(" & ")} from ${profile.nation}.`}</p>
+  )
+}
+
+export default about_me;
 ```
 
-<br>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### ⚡ Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,unity,git&theme=dark" />
-
-</td>
-<td valign="top" width="50%">
-
-### 📊 Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=alifandra-mf&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=A78BFA&text_color=C9C9C9&bg_color=00000000" height="140" />
-
-</td>
-</tr>
-</table>
+Contact me if you have any interesting projects or questions!
 
 <br>
 
-<div align="center">
+### 📬 How To Reach Me
+
+<p>
+  <a href="mailto:alifandramf16@gmail.com">
+    <img src="https://img.shields.io/badge/-GMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/alifandra-mf">
+    <img src="https://img.shields.io/badge/-GITHUB-1E1B4B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/alifandra-mf">
+    <img src="https://img.shields.io/badge/-LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<br>
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-1E1B4B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1E1B4B?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JAVASCRIPT-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GIT-1E1B4B?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-UNITY-7C3AED?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+<br>
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=alifandra-mf&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&icon_color=A78BFA&text_color=C9C9C9&bg_color=00000000" height="150" />
+
+<br><br>
 
 ### 🚀 Featured Projects
-
-</div>
 
 <table>
 <tr>
@@ -81,9 +100,6 @@ Short description of what this project does
 <br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alifandra-mf)
-[![Gmail](https://img.shields.io/badge/-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:alifandramf16@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:1E1B4B&height=100&section=footer" />
 
