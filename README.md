@@ -65,13 +65,61 @@ console.log("Welcome to my GitHub Profile!");
 
 ---
 
-## 🏆 GitHub Trophy
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
+<table align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛋 Kinokusen Furniture</h3>
+
+<p>
+Modern furniture e-commerce website inspired by IKEA and Informa.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-5D51E8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Prisma-5D51E8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MySQL-5D51E8?style=flat-square"/>
 
 </p>
+
+<a href="https://github.com/thealvarchive">
+View Project →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>👻 Unity Horror Game</h3>
+
+<p>
+
+First-person horror game featuring puzzles, inventory system, and immersive gameplay.
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Unity-5D51E8?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/C%23-5D51E8?style=flat-square"/>
+
+</p>
+
+Coming Soon...
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
