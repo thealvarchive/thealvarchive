@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning+New+Things"/>
 
 </div>
 
@@ -11,31 +11,37 @@
 ## 💜 About Me
 
 ```javascript
-const alifandra = {
+const aboutMe = {
   name: "Alifandra Moamar Farizy",
+  pronouns: "he/him",
   location: "Indonesia 🇮🇩",
 
-  role: [
+  roles: [
     "Web Developer",
     "Game Developer"
   ],
 
-  tech: [
+  currentlyLearning: [
     "Next.js",
     "Laravel",
     "Unity",
-    "MySQL"
+    "Docker"
   ]
 };
 
-console.log("Welcome to my GitHub Profile!");
+console.log(
+  `Hi! I'm ${aboutMe.name},
+I'm a ${aboutMe.roles.join(" & ")}
+from ${aboutMe.location}.`
+);
 ```
 
-> Passionate about creating modern websites and immersive games.
+> Passionate about building modern websites and immersive games.  
+> I love turning ideas into interactive digital experiences.
 
 ---
 
-## 🌐 Connect With Me
+## 📬 Contact
 
 <p align="center">
 
@@ -55,7 +61,7 @@ console.log("Welcome to my GitHub Profile!");
 
 ---
 
-## 💻 Tech Stack
+## ⚒️ Tech Stack
 
 <p align="center">
 
@@ -65,11 +71,23 @@ console.log("Welcome to my GitHub Profile!");
 
 ---
 
-## 🏆 GitHub Trophy
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thealvarchive&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thealvarchive&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=midnight-purple&hide_border=true"/>
 
 </p>
 
@@ -85,28 +103,38 @@ console.log("Welcome to my GitHub Profile!");
 
 ---
 
+## 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thealvarchive&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-| 🚀 Project | Description |
-|------------|-------------|
-| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce built using Next.js, Prisma & MySQL. |
-| 👻 **Unity Horror Game** | First-person horror game with puzzles and immersive gameplay. |
-| 🌐 **Personal Website** | Portfolio website showcasing projects and experience. |
-| 💻 **Experimental Projects** | Various web development experiments and prototypes. |
+| Project | Description |
+|---------|-------------|
+| 🛋 **Kinokusen Furniture** | Modern furniture e-commerce website built with **Next.js**, **Prisma**, and **MySQL**. |
+| 👻 **Unity Horror Game** | First-person horror game featuring puzzles, jump scares, inventory system, and immersive gameplay. |
+| 🌐 **Personal Website** | My personal portfolio showcasing my projects and experience. |
+| 💻 **Web Experiments** | Small web development projects for learning modern technologies. |
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Goals
 
-- 🌐 Become Full Stack Developer
-- 🎮 Release Unity Horror Game
+- 🌐 Become a Full Stack Web Developer
+- 🎮 Publish my first Unity Horror Game
 - 🚀 Master Next.js & Laravel
-- ☁ Learn Docker & Cloud
-- 📱 Build Mobile Applications
+- ☁ Learn Docker & Cloud Deployment
+- 📱 Explore Mobile App Development
 
 ---
 
-## 👀 Visitors
+## 👀 Profile Views
 
 <p align="center">
 
@@ -118,6 +146,6 @@ console.log("Welcome to my GitHub Profile!");
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D51E8,100:312E81&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5D51E8,100:312E81&height=110&section=footer"/>
 
 </div>
