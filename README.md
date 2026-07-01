@@ -85,13 +85,12 @@ from ${aboutMe.location}.`
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&bg_color=0d1117&color=5D51E8&line=7C6CFF&point=A89CFF&area=true&area_color=5D51E8&title_color=FFFFFF&hide_border=true"/>
 
 </p>
 
 ---
-
-
+<!--
 ## 🚀 Featured Projects
 
 | Project | Description |
@@ -112,7 +111,7 @@ from ${aboutMe.location}.`
 - 📱 Explore Mobile App Development
 
 ---
-
+-->
 ## 👀 Profile Views
 
 <p align="center">
