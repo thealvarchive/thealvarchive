@@ -10,30 +10,33 @@
 
 ## 💜 About Me
 
-```javascript
-const aboutMe = {
-  name: "Alifandra Moamar Farizy",
-  pronouns: "he/him",
-  location: "Indonesia 🇮🇩",
+```php
+<?php
 
-  roles: [
-    "Web Developer",
-    "Game Developer"
-  ],
+class Developer
+{
+    public string $name = "Alifandra Moamar Farizy";
+    public string $location = "Indonesia 🇮🇩";
 
-  currentlyLearning: [
-    "Next.js",
-    "Laravel",
-    "Unity",
-    "Blender"
-  ]
-};
+    public array $roles = [
+        "Web Developer",
+        "Game Developer"
+    ];
 
-console.log(
-  `Hi! I'm ${aboutMe.name},
-I'm a ${aboutMe.roles.join(" & ")}
-from ${aboutMe.location}.`
-);
+    public array $currentlyLearning = [
+        "Next.js",
+        "Laravel",
+        "Unity",
+        "Blender"
+    ];
+}
+
+$me = new Developer();
+
+echo "Hello, I'm {$me->name}.\n";
+echo "I'm a " . implode(" & ", $me->roles) . ".\n";
+echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
+?>
 ```
 
 > Passionate about building modern websites and immersive games.  
@@ -65,7 +68,7 @@ from ${aboutMe.location}.`
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,php,nextjs,laravel,nodejs,unity,cs,blender,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,php,nextjs,laravel,unity,cs,blender,github,vscode,figma"/>
 
 </p>
 
