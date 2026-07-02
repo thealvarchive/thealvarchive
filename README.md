@@ -1,27 +1,20 @@
-div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+</div>
 <!--<
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Web+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
-
-</div>
 -->
-<table>
-<tr>
 
-<td width="35%" align="center">
-
-<img src="profile_picture2.png" width="300"/>
-
-</td>
-
-<td width="75%" align="left">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&width=450&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
-
-</td>
-
-</tr>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="30%" align="center" style="border: none;">
+      <img src="profile_picture2.png" width="100%" style="max-width: 300px; display: block;"/>
+    </td>
+    <td width="70%" align="left" style="border: none; padding-left: 20px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&width=450&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
+    </td>
+  </tr>
 </table>
 
 ---
