@@ -2,33 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-</div>
-
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="Devaccto.png" width="300"/>
-
-</td>
-
-<td width="60%" valign="middle">
-
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
-<br><br>
-
-### 👋 Hi, I'm Alifandra
-
-Passionate about building modern websites and immersive games.
-
-</td>
-
-</tr>
-</table>
+</div>
 ---
 
 ## 💜 About Me
