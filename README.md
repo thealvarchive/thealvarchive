@@ -2,7 +2,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
+<div align="center">
+
+<table border="0">
+<tr>
+
+<td width="35%" align="center">
+
+<img src="assets/avatar.png" width="300">
+
+</td>
+
+<td width="65%" align="left">
+
+<h1>Hi, I'm Alifandra 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
+
+<br><br>
+
+💜 Passionate about building modern websites and immersive games.
+
+<br><br>
+
+🌐 Front-end Developer  
+🎮 Unity Game Developer  
+🛋️ Building **Kinokusen** Furniture  
+📚 Currently learning **Next.js, Laravel & Blender**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 ---
