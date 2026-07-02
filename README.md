@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Web+Developer;Game+Developer;Unity+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Web+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
 </div>
 
