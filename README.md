@@ -9,7 +9,7 @@
 
 <td width="35%" align="center">
 
-<img src="assets/avatar.png" width="300">
+<img src="Devaccto.png" width="300">
 
 </td>
 
