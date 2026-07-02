@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+</div>
+
 <div align="center">
 
 <table border="0">
