@@ -9,7 +9,7 @@
 
 <td width="40%" align="center">
 
-<img src="" width="300"/>
+<img src="Devaccto.png" width="300"/>
 
 </td>
 
