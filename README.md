@@ -11,7 +11,7 @@ div align="center">
 
 <td width="35%" align="center">
 
-<img src="profile_Picture2.png" width="300"/>
+<img src="profile_picture2.png" width="300"/>
 
 </td>
 
