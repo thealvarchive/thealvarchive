@@ -7,23 +7,23 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="assets/avatar.png" width="280"/>
+<img src="Devaccto.png" width="300"/>
 
 </td>
 
-<td width="65%" align="left" valign="middle">
+<td width="60%" valign="middle">
 
-<h2>Hi, I'm Alifandra 👋</h2>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
 <br><br>
 
-💜 Passionate about building modern websites.<br>
-🎮 Unity Game Developer.<br>
-🌐 Next.js & Laravel Enthusiast.
+### 👋 Hi, I'm Alifandra
+
+Passionate about building modern websites and immersive games.
 
 </td>
 
