@@ -2,10 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=180&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=650&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
-
 </div>
 
+<table>
+<tr>
+
+<td width="40%" align="center">
+
+<img src="" width="300"/>
+
+</td>
+
+<td width="60%" align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&vCenter=true&width=450&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 💜 About Me
