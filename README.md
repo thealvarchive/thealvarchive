@@ -88,7 +88,7 @@ echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&bg_color=0d1117&color=5D51E8&line=7C6CFF&point=A89CFF&area=true&area_color=5D51E8&title_color=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&bg_color=161B22&color=FFFFFF&line=5D51E8&point=8B7CFF&area=true&area_color=5D51E8&title_color=5D51E8&hide_border=true"/>
 
 </p>
 
