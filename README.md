@@ -78,7 +78,7 @@ echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=midnight-purple&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=midnight-purple&hide_border=true&background=161B22&stroke=30363D&ring=5D51E8&fire=7C6CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5D51E8&sideLabels=A89CFF&dates=8B949E"/>
 
 </p>
 
