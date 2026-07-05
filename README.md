@@ -78,7 +78,7 @@ echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=thealvarchive&theme=midnight-purple&hide_border=true&background=161B22&stroke=30363D&ring=5D51E8&fire=7C6CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5D51E8&sideLabels=A89CFF&dates=8B949E"/>
+<img src="https://streak-stats.demolab.com?user=thealvarchive&background=151B23&hide_border=true&ring=5D51E8&fire=7C6CFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5D51E8&sideLabels=A89CFF&dates=8B949E"/>
 
 </p>
 
@@ -88,7 +88,7 @@ echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&bg_color=161B22&color=FFFFFF&line=5D51E8&point=8B7CFF&area=true&area_color=5D51E8&title_color=5D51E8&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thealvarchive&bg_color=151B23&color=FFFFFF&line=5D51E8&point=A89CFF&area=true&area_color=5D51E8&title_color=5D51E8&hide_border=true"/>
 
 </p>
 
