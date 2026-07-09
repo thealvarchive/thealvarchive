@@ -56,11 +56,6 @@ echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 > Passionate about building modern websites and immersive games.  
 > I love turning ideas into interactive digital experiences.
 -->
-
-<br clear="left"/>
-<!--
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
--->
 </div>
 
 ---
