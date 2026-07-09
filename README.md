@@ -4,22 +4,19 @@
 
 <img align="left" src="Assets/Alif.gif" width="240"/>
 
-<br><br><br><br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h2>👋 Hi, I'm Alifandra</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&width=450&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
-<br><br>
+<p>💜 Passionate about building modern web applications and immersive games.</p>
 
-💜 Passionate about building modern web applications and immersive games.
-
-<br><br>
-
-🎮 Unity Developer • 🌐 Front-end Developer • ⚡ Laravel Enthusiast
+<p>🎮 Unity Developer • 🌐 Front-end Developer • ⚡ Laravel Enthusiast</p>
 
 <br clear="left"/>
-</div>
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 -->
