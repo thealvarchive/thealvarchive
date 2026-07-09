@@ -3,8 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
 <img align="left" src="Assets/Alif.gif" width="260"/>
+</div>
 
+---
 
+## 💜 About Me
 ```php
 <?php
 
@@ -32,7 +35,6 @@ echo "Hello, I'm {$me->name}.\n";
 echo "I'm a " . implode(" & ", $me->roles) . ".\n";
 echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 ?>
-```
 <!--
 > Passionate about building modern websites and immersive games.  
 > I love turning ideas into interactive digital experiences.
