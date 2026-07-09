@@ -15,14 +15,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
-<br><br>
-
-💜 Passionate about modern web development.
-
-🎮 Unity Developer
-
-🌐 Next.js & Laravel
-
 </td>
 
 </tr>
