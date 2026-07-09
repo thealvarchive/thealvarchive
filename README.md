@@ -2,18 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<table border="0">
-<tr>
+<p align="center">
+  <img src="assets/alif.gif" width="250">
+</p>
 
-<td width="35%" align="center">
-
-<img src="Assets/Alif.gif" width="250"/>
-
-</td>
-
-<td width="65%">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge">
+</p>
 
 <br><br>
 
@@ -22,11 +17,6 @@
 🎮 Unity Developer
 
 🌐 Next.js & Laravel
-
-</td>
-
-</tr>
-</table>
 
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
