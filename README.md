@@ -35,6 +35,7 @@ echo "Hello, I'm {$me->name}.\n";
 echo "I'm a " . implode(" & ", $me->roles) . ".\n";
 echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 ?>
+```
 <!--
 > Passionate about building modern websites and immersive games.  
 > I love turning ideas into interactive digital experiences.
