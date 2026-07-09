@@ -7,7 +7,7 @@
 
 <td width="35%" align="center">
 
-<img src="Alif.gif" width="250"/>
+<img src="Assets/Alif.gif" width="250"/>
 
 </td>
 
