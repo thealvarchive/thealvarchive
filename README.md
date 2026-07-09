@@ -2,26 +2,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<p align="center">
-  <img src="assets/alif.gif" width="250">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge">
-</p>
+<img src="assets/alif.gif" width="260"/>
 
 <br><br>
 
-💜 Passionate about modern web development.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&center=true&vCenter=true&width=520&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
-🎮 Unity Developer
+<br><br>
 
-🌐 Next.js & Laravel
+💜 Passionate about building modern web applications and immersive games.
+
+<br><br>
+
+🎮 Unity Developer &nbsp;&nbsp;•&nbsp;&nbsp; 🌐 Next.js Developer &nbsp;&nbsp;•&nbsp;&nbsp; ⚡ Laravel Enthusiast
+
+</div>
 
 <!--
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=5D51E8&center=true&vCenter=true&width=700&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 -->
-</div>
 
 ---
 
