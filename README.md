@@ -2,19 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:5D51E8&height=200&section=header&text=Alifandra%20Moamar%20Farizy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
-<img align="left" src="Assets/Alif.gif" width="240"/>
+<img align="left" src="assets/alif.gif" width="250"/>
 
-<h2>👋 Hi, I'm Alifandra</h2>
+<div>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<br><br><br><br><br><br><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&width=450&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
+# 👋 Hi, I'm Alifandra
 
-<p>💜 Passionate about building modern web applications and immersive games.</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=5D51E8&width=500&lines=Front-end+Developer;Game+Developer;3D+Modeler;Thirst+for+Knowledge"/>
 
-<p>🎮 Unity Developer • 🌐 Front-end Developer • ⚡ Laravel Enthusiast</p>
+💜 Passionate about building modern web applications and immersive games.
+
+🎮 Unity Developer • 🌐 Front-end Developer • ⚡ Laravel Enthusiast
+
+</div>
 
 <br clear="left"/>
 <!--
