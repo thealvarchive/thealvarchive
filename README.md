@@ -84,7 +84,7 @@ echo "Currently learning: " . implode(", ", $me->currentlyLearning) . ".";
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,ts,react,php,nextjs,laravel,unity,cs,net,blender,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,nextjs,laravel,unity,cs,net,blender,github,vscode,figma"/>
 
 </p>
 
